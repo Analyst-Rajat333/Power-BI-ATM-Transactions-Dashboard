@@ -39,8 +39,7 @@ This interactive **Power BI Dashboard** visualizes and analyzes ATM transaction 
 
 ## 📷 **Dashboard Preview**
 
-![ATM Transactions Dashboard Pic](https://github.com/user-attachments/assets/2f634164-d98f-45e9-8ed4-fcb09884af04)
-
+![ATM Transactions Dashboard Pic](https://github.com/user-attachments/assets/10d7c13f-0e36-4b1b-8dcc-42c8ae5b44cf)
 
 ---
 
